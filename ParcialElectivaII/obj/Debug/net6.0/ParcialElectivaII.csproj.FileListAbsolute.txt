@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\bin\Debug\net6.0\ParcialElectivaII.exe
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\bin\Debug\net6.0\ParcialElectivaII.deps.json
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\bin\Debug\net6.0\ParcialElectivaII.runtimeconfig.json
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\bin\Debug\net6.0\ParcialElectivaII.dll
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\bin\Debug\net6.0\ref\ParcialElectivaII.dll
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\bin\Debug\net6.0\ParcialElectivaII.pdb
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\obj\Debug\net6.0\ParcialElectivaII.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\obj\Debug\net6.0\ParcialElectivaII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\obj\Debug\net6.0\ParcialElectivaII.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\obj\Debug\net6.0\ParcialElectivaII.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\obj\Debug\net6.0\ParcialElectivaII.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\obj\Debug\net6.0\ParcialElectivaII.dll
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\obj\Debug\net6.0\ref\ParcialElectivaII.dll
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\obj\Debug\net6.0\ParcialElectivaII.pdb
+C:\Users\gusta\OneDrive\Escritorio\C#\ParcialElectivaII\ParcialElectivaII\obj\Debug\net6.0\ParcialElectivaII.genruntimeconfig.cache
