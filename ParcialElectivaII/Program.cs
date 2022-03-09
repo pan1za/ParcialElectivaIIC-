@@ -9,7 +9,7 @@ namespace ParcialElectivaII
     {
         public static void Main(string[] args)
         {
-            Menu start = new Login();
+            Menu start = new Menu();
             start.menuAdmin();
         }
     }

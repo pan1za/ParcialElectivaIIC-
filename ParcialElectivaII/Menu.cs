@@ -18,7 +18,7 @@ namespace ParcialElectivaII
             Console.WriteLine("2. Listar usuarios");
             Console.WriteLine("3. Crear blogs de acuerdo al usuario");
             Console.WriteLine("4. Listar blogs de acuerdo al usuario");
-            Console.WriteLine("5. Regresar al menú principal\n");
+            Console.WriteLine("5. Salir\n");
             opcMenuAdmin = Console.ReadLine();
             selecMenuAdmin(opcMenuAdmin);
         }
@@ -31,11 +31,39 @@ namespace ParcialElectivaII
             {
                 case "1":
                     Console.Clear();
-                    crearEstudiante();
+                    crearUsuario();
                     menuAdmin();
                     break;
                 case "2":
+                    Console.Clear();
                     listaUsuarios();
+                    Console.ReadKey();
+                    menuAdmin();
+                    break;
+                case "3":
+                    Console.Clear();
+                    int select = seleccioneUsuario();
+                    if  (select == 0)
+                    {
+                        Console.WriteLine("\nIngrese un codigo valido");
+                        Console.ReadKey();
+                        Console.Clear();
+                        menuAdmin();
+                    }
+                    else
+                    {
+                        crearBlog(select);
+                        menuAdmin();
+                    }
+                    break;
+                case "4":
+                    Console.Clear();
+                    listaBlogs(seleccioneUsuario());
+                    menuAdmin();
+                    break;
+                default:
+                    Console.Clear();
+                    Console.WriteLine("Seleccione una opción correcta, presione cualquier tecla");
                     Console.ReadKey();
                     menuAdmin();
                     break;

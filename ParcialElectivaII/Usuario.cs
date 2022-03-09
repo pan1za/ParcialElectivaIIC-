@@ -11,11 +11,6 @@ namespace ParcialElectivaII
         public string usuario { get; set; }
         public int codigo { get; set; }
 
-        public Usuario()
-        {
-
-        }
-
         public Usuario(string usuario, int codigo)
         {
             this.usuario = usuario;
