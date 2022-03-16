@@ -61,6 +61,12 @@ namespace ParcialElectivaII
                     listaBlogs(seleccioneUsuario());
                     menuAdmin();
                     break;
+                case "5":
+                    Console.Clear();
+                    Console.WriteLine("Saliendo del programa, presione cualquier tecla");
+                    Console.ReadKey();
+                    Environment.Exit(0);
+                    break;
                 default:
                     Console.Clear();
                     Console.WriteLine("Seleccione una opción correcta, presione cualquier tecla");
